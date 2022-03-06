@@ -48,4 +48,4 @@ looking at features of python:
 6.disributive
 7.object oriented
 8.reduce time complaxity.
-
+9.interpreted
